@@ -1,1 +1,1 @@
-https://mealdang.vercel.app
+서비스 바로가기: https://mealdang.vercel.app
